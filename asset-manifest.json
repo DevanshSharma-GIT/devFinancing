@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DevanshSharma-GIT/devFinancing/static/css/main.e04db8c8.css",
-    "main.js": "/DevanshSharma-GIT/devFinancing/static/js/main.cd8f795c.js",
-    "static/js/453.419a5d54.chunk.js": "/DevanshSharma-GIT/devFinancing/static/js/453.419a5d54.chunk.js",
-    "index.html": "/DevanshSharma-GIT/devFinancing/index.html",
-    "main.e04db8c8.css.map": "/DevanshSharma-GIT/devFinancing/static/css/main.e04db8c8.css.map",
-    "main.cd8f795c.js.map": "/DevanshSharma-GIT/devFinancing/static/js/main.cd8f795c.js.map",
-    "453.419a5d54.chunk.js.map": "/DevanshSharma-GIT/devFinancing/static/js/453.419a5d54.chunk.js.map"
+    "main.css": "/devFinancing/static/css/main.e04db8c8.css",
+    "main.js": "/devFinancing/static/js/main.7f450b9e.js",
+    "static/js/453.419a5d54.chunk.js": "/devFinancing/static/js/453.419a5d54.chunk.js",
+    "index.html": "/devFinancing/index.html",
+    "main.e04db8c8.css.map": "/devFinancing/static/css/main.e04db8c8.css.map",
+    "main.7f450b9e.js.map": "/devFinancing/static/js/main.7f450b9e.js.map",
+    "453.419a5d54.chunk.js.map": "/devFinancing/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e04db8c8.css",
-    "static/js/main.cd8f795c.js"
+    "static/js/main.7f450b9e.js"
   ]
 }
