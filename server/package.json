@@ -1,46 +1,21 @@
 {
-  "name": "client",
-  "version": "0.1.0",
-  "private": true,
-  "homepage": "https://DevanshSharma-GIT.github.io/devFinancing/",
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "axios": "^1.6.2",
-    "chart.js": "^4.4.1",
-    "react": "^18.2.0",
-    "react-chartjs-2": "^5.2.0",
-    "react-dom": "^18.2.0",
-    "react-router-dom": "^6.20.1",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
-  },
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Backend for DevFinancing app",
+  "main": "server.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "proxy": "http://localhost:5000"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "lodash": "^4.17.21",
+    "nedb": "^1.8.0"
+  }
 }
